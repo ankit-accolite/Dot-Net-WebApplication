@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using Microsoft.AspNetCore.Identity
+@using UserLoginPrac.Areas.Identity.Data
+@inject SignInManager<UserLoginPracUser> SignInManager
+@inject UserManager<UserLoginPracUser> UserManager
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @if(SignInManager.IsSignedIn(User))
+    {
+        <h2>Hey, @User.Identity?.Name ,</h2>
+            <button type="submit" onclick="window.location.href='/Accounts'" class="btn btn-primary">Click here to Edit URLs</button>
+    }
+</div>
