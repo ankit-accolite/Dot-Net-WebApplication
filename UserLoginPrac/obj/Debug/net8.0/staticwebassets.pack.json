@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\UserLoginPrac.bundle.scp.css"
     },
     {
+      "Id": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\wwwroot\\css\\5061832.jpg",
+      "PackagePath": "staticwebassets\\css\\5061832.jpg"
+    },
+    {
+      "Id": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\wwwroot\\css\\hello-unscreen.gif",
+      "PackagePath": "staticwebassets\\css\\hello-unscreen.gif"
+    },
+    {
+      "Id": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\wwwroot\\css\\imgbk.jpg",
+      "PackagePath": "staticwebassets\\css\\imgbk.jpg"
+    },
+    {
       "Id": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

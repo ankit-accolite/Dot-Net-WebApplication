@@ -12,7 +12,7 @@ namespace UserLoginPrac
 
    builder.Services.AddDbContext<UserLoginPracContext>(options => options.UseInMemoryDatabase("MyDb"));
 
-   builder.Services.AddDefaultIdentity<UserLoginPracUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<UserLoginPracContext>();
+   builder.Services.AddDefaultIdentity<UserLoginPracUser>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<UserLoginPracContext>();
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();

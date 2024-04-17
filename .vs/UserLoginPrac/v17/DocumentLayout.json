@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,36 +67,16 @@
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\areas\\identity\\pages\\authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\areas\\identity\\pages\\authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -77,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|solutionrelative:userloginprac\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE48ADEF-93B1-4C36-A46A-92968EC8C6D6}|UserLoginPrac\\UserLoginPrac.csproj|c:\\assignments\\dot-net projects\\userloginprac\\userloginprac\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -167,58 +171,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Details.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Details.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Details.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T18:08:15.058Z",
+              "WhenOpened": "2024-04-15T09:52:33.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T18:00:01.52Z",
+              "WhenOpened": "2024-04-15T10:02:33.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Index.cshtml",
               "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Index.cshtml",
               "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Index.cshtml",
               "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-15T14:31:42.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "UserLoginPrac\\Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAQwF4AAAAfAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Program.cs",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Program.cs",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Program.cs",
+              "RelativeToolTip": "UserLoginPrac\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:54:18.03Z",
+              "WhenOpened": "2024-04-15T09:47:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T11:27:39.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Models\\Account.cs",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Models\\Account.cs",
+              "RelativeToolTip": "UserLoginPrac\\Models\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:52:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "UserLoginPrac\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "UserLoginPrac\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwDsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T16:38:31.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T11:29:59.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T09:52:31.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:27:51.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserLoginPracUser.cs",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Data\\UserLoginPracUser.cs",
               "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Data\\UserLoginPracUser.cs",
@@ -230,33 +311,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T14:27:51.897Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "UserLoginPrac\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwF4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:54:18.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T11:29:59.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T18:00:01.52Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "UserLoginPrac\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T18:08:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UserLoginPrac\\Controllers\\HomeController.cs",
@@ -268,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "UserLoginPracContext.cs",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Data\\UserLoginPracContext.cs",
               "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Data\\UserLoginPracContext.cs",
@@ -280,19 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Program.cs",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Program.cs",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Program.cs",
-              "RelativeToolTip": "UserLoginPrac\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwA4AAAByAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T09:47:54.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Accounts\\Create.cshtml",
               "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Accounts\\Create.cshtml",
@@ -304,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AuthLayout.cshtml",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\AuthLayout.cshtml",
               "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Pages\\AuthLayout.cshtml",
@@ -316,31 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T09:52:33.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Models\\Account.cs",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Models\\Account.cs",
-              "RelativeToolTip": "UserLoginPrac\\Models\\Account.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:52:40.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -352,43 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T10:02:33.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T09:52:31.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "UserLoginPrac\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T11:27:39.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\Error.cshtml",
@@ -400,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "UserLoginPrac\\Views\\_ViewImports.cshtml",
@@ -412,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\_LoginPartial.cshtml",
@@ -424,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "UserLoginPrac\\Views\\Shared\\_Layout.cshtml.css",
@@ -436,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\appsettings.json",
               "RelativeDocumentMoniker": "UserLoginPrac\\appsettings.json",
@@ -448,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Projects\\UserLoginPrac\\UserLoginPrac\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "UserLoginPrac\\ScaffoldingReadMe.txt",

@@ -12,6 +12,9 @@
     <h1 class="display-4">Welcome</h1>
     @if(SignInManager.IsSignedIn(User))
     {
+        <div style="background-color:darkgray; width:50% ; height:200px;display:flex;align-items:center;justify-content:center ;margin-left:23%; border-radius:40px">
+        <img src="~/css/hello-unscreen.gif"/>
+        </div>
         <h2>Hey, @User.Identity?.Name ,</h2>
             <button type="submit" onclick="window.location.href='/Accounts'" class="btn btn-primary">Click here to Edit URLs</button>
     }
